@@ -1,0 +1,30 @@
+{
+    "MA101.CZCE": {
+        "pos": -42,
+        "entryprice": 2062.0,
+        "target_pos": 0
+    },
+    "OI101.CZCE": {
+        "pos": 9,
+        "entryprice": 9094.0,
+        "target_pos": 0
+    },
+    "SR101.CZCE": {
+        "pos": -18,
+        "entryprice": 5281.0,
+        "target_pos": 0
+    },
+    "i2101.DCE": {
+        "pos": -3,
+        "entryprice": 783.0,
+        "target_pos": 0
+    },
+    "ag2012.SHFE": {
+        "pos": -3,
+        "entryprice": 5211.0
+    },
+    "bu2012.SHFE": {
+        "pos": -9,
+        "entryprice": 2388.0
+    }
+}

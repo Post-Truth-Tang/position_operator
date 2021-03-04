@@ -1,0 +1,12 @@
+{
+    "MA101.CZCE.HSR": {
+        "pos": -14,
+        "entryprice": 2062.0,
+        "target_pos": 0
+    },
+    "OI101.CZCE.HSR": {
+        "pos": 3,
+        "entryprice": 9094.0,
+        "target_pos": 0
+    }
+}
